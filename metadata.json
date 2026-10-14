@@ -1,0 +1,6 @@
+{
+  "name": "幸運轉盤抽獎系統",
+  "description": "支援 JSON 匯入名單、自訂權重、抽中保留或移除名單、旋轉音效與即時中獎紀錄的幸運抽獎輪盤。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
